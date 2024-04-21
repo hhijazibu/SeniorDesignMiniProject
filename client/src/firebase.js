@@ -6,7 +6,7 @@ import {
 } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAXzKiB8yEziAL1x07ilD-J6mqheq6WUFA",
+  apiKey: "your-firebase-key",
   authDomain: "seniordesignminiprojectbu.firebaseapp.com",
   projectId: "seniordesignminiprojectbu",
   storageBucket: "seniordesignminiprojectbu.appspot.com",
